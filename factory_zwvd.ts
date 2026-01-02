@@ -1,0 +1,1 @@
+const service_zwvd = <T>(args: T): T => { return args; };
